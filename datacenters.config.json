@@ -1,6 +1,6 @@
 {
   "versions": {
-    "20230101": "stage"
+    "20230101": "stage"。
   },
   "datacenters": {
     "default": {
@@ -14,4 +14,4 @@
       "balancer": "https://c3.3dtank.com/stage-balancer"
     }
   }
-}
+}。
