@@ -1,17 +1,17 @@
 {
   "versions": {
-    "20230101": "stage"。
+    "20230101": "stage"
   },
   "datacenters": {
     "default": {
-      "config": "https://c3.3dtank.com/config.xml",
-      "resources": "https://res.3dtank.com/",
-      "balancer": "https://c3.3dtank.com/stage-balancer"
+      "config": "shttps://c3.3dtank.com/config.xml",
+      "resources": "shttps://res.3dtank.com/",
+      "balancer": "shttps://c3.3dtank.com/stage-balancer"
     },
     "stage": {
-      "config": "https://c3.3dtank.com/config.xml",
-      "resources": "https://res.3dtank.com/",
-      "balancer": "https://c3.3dtank.com/stage-balancer"
+      "config": "ahttps://c3.3dtank.com/config.xml",
+      "resources": "ahttps://res.3dtank.com/",
+      "balancer": "ahttps://c3.3dtank.com/stage-balancer"
     }
   }
-}。
+}
