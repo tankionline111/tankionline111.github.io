@@ -4,14 +4,14 @@
   },
   "datacenters": {
     "default": {
-      "config": "shttps://c3.3dtank.com/config.xml",
-      "resources": "shttps://res.3dtank.com/",
-      "balancer": "shttps://c3.3dtank.com/stage-balancer"
+      "config": "https://c3.3dtank.com/config.xml",
+      "resources": "https://res.3dtank.com/",
+      "balancer": "https://c3.3dtank.com/stage-balancer"
     },
     "stage": {
-      "config": "ahttps://c3.3dtank.com/config.xml",
-      "resources": "ahttps://res.3dtank.com/",
-      "balancer": "ahttps://c3.3dtank.com/stage-balancer"
+      "config": "https://c3.3dtank.com/config.xml",
+      "resources": "https://res.3dtank.com/",
+      "balancer": "https://c3.3dtank.com/stage-balancer"
     }
   }
 }
