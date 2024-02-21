@@ -1,1 +1,16 @@
-{"errCode":0,"message":"ok","data":"AAAAAAAAAAAAAAAAAAAAA","ticks":0}
+{
+  "versions": {
+  },
+  "datacenters": {
+    "default": {
+      "config": "https://c3.3dtank.com/config.xml",
+      "resources": "https://res.3dtank.com/",
+      "balancer": "https://c3.3dtank.com/stage-balancer"
+    },
+    "stage": {
+      "config": "https://c3.3dtank.com/config.xml",
+      "resources": "https://res.3dtank.com/",
+      "balancer": "https://c3.3dtank.com/stage-balancer"
+    }
+  }
+}
