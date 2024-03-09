@@ -1,1 +1,11 @@
-{"errCode":0,"message":"ok","data":"AAAAAAAAAAAAAAAAAAAAAMUXilczhN9gW029L2Ui6iwms7FTwqjigSxp3G1s9wQ0prlTiRHeoq333ssP/zzbsA==","ticks":0}
+{
+  "versions": {
+  },
+  "datacenters": {
+    "default": {
+      "config": "https://c%server%.3dtank.com/config.xml",
+      "resources": "https://res.3dtank.com/",
+      "balancer": "https://3dtank.com/s/status.js"
+    }
+  }
+}
