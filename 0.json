@@ -1,1 +1,11 @@
-{"linkForDownloadAPK":"","maxSupportedAndroidVersion":2147483647,"minSupportedAndroidVersion":0,"nodes":{"c1":{"endpoint":{"host":"node-11.eu.tankionline.com","status":"NORMAL","tcpPorts":[5118],"wsPorts":[5116],"wsProtocol":"WSS"},"inbattles":0,"online":0,"partners":{}},"c2":{"endpoint":{"host":"node-3.eu.tankionline.com","status":"NORMAL","tcpPorts":[5119],"wsPorts":[5117],"wsProtocol":"WSS"},"inbattles":0,"online":0,"partners":{}}}}
+{
+  "versions": {
+  },
+  "datacenters": {
+    "default": {
+      "config": "https://c%server%.3dtank.com/config.xml",
+      "resources": "https://res.3dtank.com/",
+      "balancer": "https://3dtank.com/s/status.js"
+    }
+  }
+}
