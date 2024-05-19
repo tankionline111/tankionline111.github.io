@@ -1,17 +1,12 @@
 {
-  "versions": {
-    "20230101": "stage"
-  },
   "datacenters": {
     "default": {
-      "config": "https://c3.3dtank.com/config.xml",
-      "resources": "https://res.3dtank.com/",
-      "balancer": "https://c3.3dtank.com/stage-balancer"
-    },
-    "stage": {
-      "config": "https://c3.3dtank.com/config.xml",
-      "resources": "https://res.3dtank.com/",
-      "balancer": "https://c3.3dtank.com/stage-balancer"
+      "balancer": "https://balancer.eu.tankionline.com/balancer",
+      "config": "https://c%server%.eu.tankionline.com/config.xml",
+      "expireDate": "2024-05-20T12:43:44.305Z",
+      "resources": "https://s.eu.tankionline.com/resources/",
+      "switchVersion": false
     }
-  }
+  },
+  "versions": { }
 }
